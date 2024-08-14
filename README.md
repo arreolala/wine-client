@@ -78,6 +78,3 @@ Give credit here.
 - This project was based on [this tutorial](https://platform.openai.com/docs/).
 - Many thanks to Valentyn.
 
-## Contact
-
-Created by [@violetstar701](https://) - feel free to contact me!
